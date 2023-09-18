@@ -1,0 +1,30 @@
+{
+  "name": "probability-1",
+  "module": "main",
+  "type": "module",
+  "devDependencies": {
+    "@types/d3": "^7.4.0",
+    "@types/lodash": "^4.14.198",
+    "@types/mathjs": "^9.4.2",
+    "@types/numeric": "^1.2.3",
+    "@types/papaparse": "^5.3.8",
+    "@types/plotly.js": "^2.12.26",
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "chartjs-node-canvas": "^4.1.6",
+    "csv-parser": "^3.0.0",
+    "d3": "^7.8.5",
+    "lodash": "^4.17.21",
+    "mathjs": "^11.11.0",
+    "numeric": "^1.2.6",
+    "papaparse": "^5.4.1",
+    "plotly.js": "^2.26.0",
+    "save-svg-as-png": "^1.4.17",
+    "simple-statistics": "^7.8.3",
+    "zod": "^3.22.2"
+  }
+}
